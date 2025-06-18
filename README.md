@@ -49,7 +49,7 @@ Open a terminal and navigate to the project folder:
 ```bash
 cd twitter-automated-tweet
 ```
-# Run the Python script:
+## Run the Python script:
 ```bash
 python tweet.py
 ```
