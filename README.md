@@ -49,7 +49,7 @@ Open a terminal and navigate to the project folder:
 ```bash
 cd twitter-automated-tweet
 ```
-Run the Python script:
+# Run the Python script:
 ```bash
 python tweet.py
 ```
@@ -59,3 +59,16 @@ Your Twitter login email
 Your Twitter login password
 The message (tweet) you want to post
 The script will then automate the browser, log in to your Twitter account, and post your tweet.
+
+
+## ⚠️ Important Notes
+
+Use responsibly and avoid excessive automation to prevent account restrictions.
+This is purely for personal and educational use. Use of automated tools may violate Twitter’s Terms of Service.
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this script for personal projects.
+
